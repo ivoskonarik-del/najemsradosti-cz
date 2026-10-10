@@ -472,3 +472,14 @@ details.tview .tbl td, details.tview .tbl th { padding: .35rem .8rem; }
 .rte .ql-snow .ql-picker.ql-header .ql-picker-label::before, .rte .ql-snow .ql-picker.ql-header .ql-picker-item::before { content: 'Odstavec'; }
 .rte .ql-snow .ql-picker.ql-header .ql-picker-label[data-value="2"]::before, .rte .ql-snow .ql-picker.ql-header .ql-picker-item[data-value="2"]::before { content: 'Nadpis'; }
 .rte .ql-snow .ql-picker.ql-header .ql-picker-label[data-value="3"]::before, .rte .ql-snow .ql-picker.ql-header .ql-picker-item[data-value="3"]::before { content: 'Podnadpis'; }
+/* návštěvnost – mobil */
+.stat-grid > *, .stat-grid > div > * { min-width: 0; }
+.chart .tip b { color: #fff; }
+.tbl .pg { max-width: 100%; }
+.tbl td:first-child { width: 100%; max-width: 0; }
+@media (max-width: 640px) {
+  .tbl th, .tbl td { padding: .55rem .9rem; }
+  .card .card-head { padding: 1rem .9rem; }
+  .chart-card { padding: 1rem .9rem; }
+  .kpi { padding: 1rem; } .kpi b { font-size: 1.9rem; }
+}
