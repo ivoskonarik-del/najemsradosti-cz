@@ -1,5 +1,17 @@
 [
  {
+  "slug": "zkusebni-clanek-administrace-smazat",
+  "title": "Zkušební článek administrace (smazat)",
+  "date": "2026-10-10",
+  "excerpt": "Krátký perex zkušebního článku, který po testu zase smažeme.",
+  "image": "img/uploads/2026-10/test-titulni-lpm6k3.webp",
+  "imageAlt": "Nářadí na opravy",
+  "category": "Reality",
+  "author": "Mgr. Tomáš Veigl",
+  "body": "<h2>Mezititulek testu</h2><p>Odstavec s odkazem na <a href=\"https://najemsradosti.cz/kontakt/\" rel=\"noopener noreferrer\" target=\"_blank\">kontakt</a>. </p><ul><li>první odrážka</li><li>druhá odrážka</li></ul><p><img src=\"/img/uploads/2026-10/zkusebni-clanek-administrace-smazat-1iy30m.webp\"></p>",
+  "hidden": false
+ },
+ {
   "slug": "vyplati-se-sprava-nemovitosti",
   "title": "Proč je profesionální správa v konečném důsledku levnější než pronájem svépomocí?",
   "date": "2026-03-05",
