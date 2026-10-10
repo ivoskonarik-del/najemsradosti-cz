@@ -483,3 +483,4 @@ details.tview .tbl td, details.tview .tbl th { padding: .35rem .8rem; }
   .chart-card { padding: 1rem .9rem; }
   .kpi { padding: 1rem; } .kpi b { font-size: 1.9rem; }
 }
+.dash-grid > * { min-width: 0; }
